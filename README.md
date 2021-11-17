@@ -34,6 +34,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ### Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
+
 - **[Tighten Co.](https://tighten.co)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
@@ -63,3 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+https://drive.google.com/file/d/193nv0WGb5wYVv1gjJzahM03Aff_50jlv/view
